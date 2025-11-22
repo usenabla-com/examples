@@ -1,6 +1,6 @@
 # A Tiny Little Compliance Stack (ATLCS)
 
-This repo contains the API, Githubworkflows, and assets used internally to help facilitate Nabla's compliance-as-code vision without heavy opinionation and allowing clients and users to use their own tools, with the caveat that at the moment they are up for using Github Actions for the main automations. 
+This repo contains the API, Github workflows, and assets used internally to help facilitate Nabla's compliance-as-code vision without heavy opinionation and allowing clients and users to use their own tools, with the caveat that at the moment they are up for using Github Actions for the main automations. 
 
 ## Features
 

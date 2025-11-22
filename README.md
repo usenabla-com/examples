@@ -12,7 +12,7 @@ This repo contains the API, Githubworkflows, and assets used internally to help 
 
 - Framework-Agnostic – Supports multiple standards and tool stacks (e.g., FedRAMP, Airtable, CMMC) without locking users into a particular toolchain.
 
-Audit-Friendly – Outputs and logs are structured for easy review and reporting.
+- Audit-Friendly – Outputs and logs are structured for easy review and reporting.
 
 ## Getting Started
 
